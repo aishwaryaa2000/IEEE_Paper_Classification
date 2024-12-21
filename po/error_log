@@ -1,0 +1,19 @@
+[28-Jun-2020 11:02:12 Asia/Kolkata] PHP Notice:  Undefined index: po_user_id in /home/iabgnxvp/public_html/beta/po/index.php on line 103
+[28-Jun-2020 11:02:12 Asia/Kolkata] PHP Notice:  Undefined index: college_name in /home/iabgnxvp/public_html/beta/po/index.php on line 106
+[28-Jun-2020 11:02:12 Asia/Kolkata] PHP Notice:  Undefined index: college_code in /home/iabgnxvp/public_html/beta/po/index.php on line 163
+[28-Jun-2020 13:41:11 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 43021841 bytes) in /home/iabgnxvp/public_html/beta/conn.php on line 11
+[28-Jun-2020 13:42:15 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 43021837 bytes) in /home/iabgnxvp/public_html/beta/conn.php on line 11
+[28-Jun-2020 16:29:18 Asia/Kolkata] PHP Notice:  Undefined index: po_user_id in /home/iabgnxvp/public_html/beta/po/index.php on line 103
+[28-Jun-2020 16:29:18 Asia/Kolkata] PHP Notice:  Undefined index: college_name in /home/iabgnxvp/public_html/beta/po/index.php on line 106
+[28-Jun-2020 16:29:18 Asia/Kolkata] PHP Notice:  Undefined index: college_code in /home/iabgnxvp/public_html/beta/po/index.php on line 163
+[28-Jun-2020 17:18:51 Asia/Kolkata] PHP Notice:  Undefined index: po_user_id in /home/iabgnxvp/public_html/beta/po/index.php on line 103
+[28-Jun-2020 17:18:51 Asia/Kolkata] PHP Notice:  Undefined index: po_nm in /home/iabgnxvp/public_html/beta/po/index.php on line 104
+[28-Jun-2020 17:18:51 Asia/Kolkata] PHP Notice:  Undefined index: college_name in /home/iabgnxvp/public_html/beta/po/index.php on line 107
+[28-Jun-2020 17:18:51 Asia/Kolkata] PHP Notice:  Undefined index: college_code in /home/iabgnxvp/public_html/beta/po/index.php on line 164
+[03-Jul-2020 00:02:00 Asia/Kolkata] PHP Notice:  Undefined variable: po_email in /home/iabgnxvp/public_html/beta/po/updateprofile.php on line 509
+[03-Jul-2020 00:02:15 Asia/Kolkata] PHP Notice:  Undefined variable: po_email in /home/iabgnxvp/public_html/beta/po/updateprofile.php on line 509
+[03-Jul-2020 00:04:33 Asia/Kolkata] PHP Notice:  Undefined variable: po_email in /home/iabgnxvp/public_html/beta/po/updateprofile.php on line 509
+[03-Jul-2020 01:26:57 Asia/Kolkata] PHP Notice:  Undefined index: po_user_id in /home/iabgnxvp/public_html/beta/po/registervolunteer.php on line 7
+[03-Jul-2020 01:26:57 Asia/Kolkata] PHP Notice:  Undefined index: college_code in /home/iabgnxvp/public_html/beta/po/registervolunteer.php on line 8
+[03-Jul-2020 17:58:25 Asia/Kolkata] PHP Notice:  Undefined index: po_user_id in /home/iabgnxvp/public_html/beta/po/registervolunteer.php on line 7
+[03-Jul-2020 17:58:25 Asia/Kolkata] PHP Notice:  Undefined index: college_code in /home/iabgnxvp/public_html/beta/po/registervolunteer.php on line 8
